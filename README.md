@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Javokhir Rajabboev.
-- 🌱 I’m currently learning Cloud computing.
 - 📫 Contact me on Telegram @[r3duce]( https://t.me/r3duce/), on Linkedin @[javokhir-rajabbovev](https://linkedin.com/in/javokhir-rajabboev).
 
 <!---
